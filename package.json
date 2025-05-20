@@ -1,0 +1,23 @@
+{
+  "name": "node-session-project",
+  "version": "1.0.0",
+  "description": "This is a mini Node.js project demonstrating session management using Express and middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketanmohate/node-session-project.git"
+  },
+  "author": "ketan mohate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketanmohate/node-session-project/issues"
+  },
+  "homepage": "https://github.com/ketanmohate/node-session-project#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
